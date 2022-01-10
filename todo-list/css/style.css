@@ -10,6 +10,11 @@ body {
     text-align: center;
 }
 
+#todo {
+    height: 2em;
+    width: 20em;
+    font-size: 20px;
+}
 .container{
     margin-top: 20px;
 }
@@ -17,18 +22,22 @@ body {
 button {
     color: #fff;
     border: none;
-    padding: 4px 20px;
+    padding: 10px 20px;
+    font-size: 20px;
+    font-weight: bold; 
+    
 }
 #addBtn{
-    background-color: seagreen;
+    background-color: rgb(38, 105, 67);
 }
 
 #clearBtn {
-    background-color: sienna;
+    background-color: rgb(145, 75, 43);
 }
 
 li{
     text-align: left;
+    font-size: 1.5em;
 
 }
 :checked + span{
