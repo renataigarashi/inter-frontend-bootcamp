@@ -2,18 +2,21 @@
 
 * {
     font-family: 'Raleway', sans-serif;
+    color:#fff
 }
 
 body {
     display: flex;
     justify-content: center;
     text-align: center;
+    background-color: #005155;
 }
 
 #todo {
     height: 2em;
     width: 20em;
     font-size: 20px;
+    color: #000;
 }
 .container{
     margin-top: 20px;
