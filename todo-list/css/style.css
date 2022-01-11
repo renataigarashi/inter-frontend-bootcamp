@@ -14,7 +14,7 @@ body {
 
 #todo {
     height: 2em;
-    width: 20em;
+    width: 15em;
     font-size: 20px;
     color: #000;
 }
@@ -27,7 +27,8 @@ button {
     border: none;
     padding: 10px 20px;
     font-size: 20px;
-    font-weight: bold; 
+    font-weight: bold;     
+    margin-top: 5px;
     
 }
 #addBtn{
